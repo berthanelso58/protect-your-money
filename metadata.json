@@ -1,0 +1,9 @@
+{
+  "name": "FraudGuard AI & Image Studio",
+  "description": "An interactive fraud awareness platform that collects real-time fraud intelligence via Google Search grounding and provides a high-stakes simulation game to train users. Also includes a professional-grade AI Image Studio powered by Gemini 3 Pro and 2.5 Flash Image.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "display-capture"
+  ]
+}
